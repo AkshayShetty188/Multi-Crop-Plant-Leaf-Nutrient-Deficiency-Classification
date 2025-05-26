@@ -51,10 +51,11 @@ This project identifies nutrient deficiencies in the leaves of banana, rice, and
 ---
 
 🧠 Techniques Used
--📦 PyTorch: CNN model development and training
--📊 Matplotlib / Seaborn: Metrics & plots
--🔬 Grad-CAM: Model explainability
--📁 ImageFolder: For loading datasets
+
+- 📦 PyTorch: CNN model development and training
+- 📊 Matplotlib / Seaborn: Metrics & plots
+- 🔬 Grad-CAM: Model explainability
+- 📁 ImageFolder: For loading datasets
 
 🧪 Soft Voting Ensemble: Averaging predictions across models
 
